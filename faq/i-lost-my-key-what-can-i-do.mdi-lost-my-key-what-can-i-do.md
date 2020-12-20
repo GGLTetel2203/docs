@@ -1,4 +1,4 @@
-
+i-lost-my-key-what-can-i-do.md
 ### I lost my key ? What can I do
 We warn our users about keeping their keys safe on multiple places on the website (including the signup page where you received this key in the first place). If you lost a private key, it is totally unrecoverable. If the key was only a custom key, then you can login with your master key and delete this custom key, and make a new one.
 
